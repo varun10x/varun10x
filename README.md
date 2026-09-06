@@ -119,13 +119,11 @@ ANIMATION
 
 </div>
 
----
-
-## ◈ MORE PROJECTS LOADING...
+◈ MORE PROJECTS LOADING...
 
 I'm currently experimenting with projects across:
 
-```text
+
 AI
 │
 ├── Machine Learning
@@ -261,6 +259,6 @@ CREATIVE
 
 <br><br>
 
-`// more projects loading...`
+// more projects loading...
 
 </div>
